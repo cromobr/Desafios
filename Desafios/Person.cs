@@ -36,7 +36,7 @@ namespace Desafios
         {
             this.age = this.age + 1;
         }
-
+        /*
         static void Main(String[] args)
         {
             int T = int.Parse(Console.In.ReadLine());
@@ -52,6 +52,6 @@ namespace Desafios
                 p.amIOld();
                 Console.WriteLine();
             }
-        }
+        }*/
     }
 }

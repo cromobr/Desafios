@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayDesafio.cs" />
+    <Compile Include="Array2D.cs" />
     <Compile Include="ArrayDS.cs" />
+    <Compile Include="LetsReview.cs" />
+    <Compile Include="Loop.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="ConditionalStatements.cs" />
     <Compile Include="DataType.cs" />

@@ -1,4 +1,3 @@
-C:\Users\bcromo\source\repos\Desafios\Desafios\obj\Debug\Desafios.csprojAssemblyReference.cache
 C:\Users\bcromo\source\repos\Desafios\Desafios\obj\Debug\Desafios.csproj.CoreCompileInputs.cache
 C:\Users\bcromo\source\repos\Desafios\Desafios\bin\Debug\Desafios.exe.config
 C:\Users\bcromo\source\repos\Desafios\Desafios\bin\Debug\Desafios.exe
