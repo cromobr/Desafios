@@ -15,7 +15,7 @@ using System;
 namespace Desafios
 {
     class ArrayDesafio
-    {
+    {/*
         static void Main(string[] args)
         {
             int n = Convert.ToInt32(Console.ReadLine());
@@ -24,7 +24,7 @@ namespace Desafios
 
             Console.Write(inverseArray(arr));
         }
-
+        */
         private static string inverseArray(int[] arr)
         {
             String inverseOrder = "";
