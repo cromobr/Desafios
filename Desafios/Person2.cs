@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Desafios
 {
-    class Person
+    class Person2
     {
         public int age;
-        public Person(int initialAge)
+        public Person2(int initialAge)
         {
             if (initialAge < 0)
             {
